@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AuReader</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Kill me</string>
+    <string name="title_activity_reader">ReaderActivity</string>
+</resources>

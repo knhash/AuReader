@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AuReader.iml" filepath="$PROJECT_DIR$/AuReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epublib-core-latest/epublib-core-latest.iml" filepath="$PROJECT_DIR$/epublib-core-latest/epublib-core-latest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slf4j-android-1.6.1-RC1/slf4j-android-1.6.1-RC1.iml" filepath="$PROJECT_DIR$/slf4j-android-1.6.1-RC1/slf4j-android-1.6.1-RC1.iml" />
+    </modules>
+  </component>
+</project>
